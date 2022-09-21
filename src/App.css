@@ -307,6 +307,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     line-height: 1;
     margin-bottom: 20px;
     display: block;
+    height: 135px;
+}
+
+@media screen and (max-width: 767px) {
+    .banner h1 {
+        height: 175px;
+    }
 }
 
 .banner p {
@@ -432,7 +439,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .project .nav.nav-pills {
-    width: 72%;
+    width: 90%;
     margin: 0 auto;
     border-radius: 50px;
     background-color: rgb(255 255 255 / 10%);
