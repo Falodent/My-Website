@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Falola, a `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Frontend Engineer.", "UI/UX Designer.", "Content Writer." ]'><span className="wrap">{text}</span></span></h1>
                   <p>I create top-notch responsive websites that are fast and easy to use. I'm dedicated to creating amazing designs that is user-friendly and eye catchy. I am very eager to keep learning and improve my abilities so I can deliver quality websites and designs.</p>
-                  <a href="https://drive.google.com/file/d/1c4zzVQSPcIcYq-mu09GE7ZBxMHwuiCVE/view?usp=sharing"
+                  <a href="https://drive.google.com/file/d/1cJYCewTA47OkK1yCbxZ-JAdRJZjFz2fO/view?usp=drive_link"
                   rel="noreferrer" target="_blank">
                     <button>Download Resume <ArrowRightCircle size={25} /></button>
                   </a>
